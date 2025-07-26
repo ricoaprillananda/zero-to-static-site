@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  mystatic:
+    image: mystatic-image
+    build: .
+    ports:
+      - "8080:80"
+    container_name: mystatic
