@@ -20,19 +20,6 @@ From Zero to Static — A minimalist, blazing-fast site crafted with integrity, 
 
 ---
 
-## Folder Structure
-
-```
-zero-to-static-site/
-├── assets/ # Images and preview files
-├── index.html # Main entry point
-├── style.css # Basic styling
-└── script.js # Optional JavaScript (empty starter)
-```
-
----
-
-
 ## 🐢 Live Demo
 
 > [🔗 Click here to view the live site](https://your-netlify-url.netlify.app)  
